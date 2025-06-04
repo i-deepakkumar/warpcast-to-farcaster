@@ -1,1 +1,24 @@
-
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE4MzAxLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4QTIzMjRiZmY0NTE0QkVmMTA5RmY5ZGNDZTg0ZTA2RDg3MjI2NzNGYyJ9",
+    "payload": "eyJkb21haW4iOiJ3YXJwY2FzdC10by1mYXJjYXN0ZXIudmVyY2VsLmFwcCJ9",
+    "signature": "MHg0NjA5YzVlMWZjMjUyNzVhNDA3YWVmZjViYmJjMmZkZmExMzBmODkwOWE5NDg1NmU3ZGNmM2RkYmQyNWZlNWFhNTQ2MDI0ZWRjYTlmMjEzN2I3NmVlYjBlYjk4YWU3OTA4N2I0ZDZkYjY5ZWVjN2Y1ZTQ1YTJiNWM3YWY0ZGEyODFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "WTF",
+    "homeUrl": "https://warpcast-to-farcaster.vercel.app",
+    "iconUrl": "https://warpcast-to-farcaster.vercel.app/favicon.png",
+    "splashImageUrl": "https://warpcast-to-farcaster.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "subtitle": "Welcome  Warpcast to Farcaster",
+    "tagline": "Welcome to Farcaster Nft Mint",
+    "ogTitle": "Welcome to Farcaster Summer Adventure",
+    "ogimageUrl": "https://warpcast-to-farcaster.vercel.app/og.png",
+    "primaryCategory": "summer-adventure",
+    "tags": ["warpcast", "summer", "adventure", "farcaster"],
+    "screenshotUrls": [],
+    "buttonTitle": "Check this out",
+    "webhookUrl": "https://warpcast-to-farcaster.vercel.app/api/webhook"
+  }
+}
