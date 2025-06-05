@@ -145,10 +145,10 @@ function App() {
     </div>
 
     <a
-      href="https://warpcast-to-farcaster.vercel.app"
+      href='https://warpcast.com/~/compose?text=Mera%20WTF%20app%20dekho!&embeds[]=https%3A%2F%2Fwarpcast-to-farcaster.vercel.app%2F'
       target="_blank"
       rel="noopener noreferrer"
-      className="bg-[#362e6f] text-white text-center font-semibold text-lg h-12 px-5 mt-4 rounded-xl drop-shadow-[0px_0px_0.5rem_#2d235acc] hover:bg-[#4b3fa3]"
+      className='bg-[#362e6f] text-white flex justify-center items-center font-semibold text-2xl h-14 px-7 rounded-2xl drop-shadow-[0px_0px_1rem_#2d235acc]'
     >
       Share on Farcaster
     </a>
@@ -156,7 +156,7 @@ function App() {
 ) : (
   <div className='flex px-4 flex-col'>
     <a
-      href='https://warpcast-to-farcaster.vercel.app'
+      href='https://warpcast.com/~/compose?text=Mera%20WTF%20app%20dekho!&embeds[]=https%3A%2F%2Fwarpcast-to-farcaster.vercel.app%2F'
       className='bg-[#362e6f] text-white flex justify-center items-center font-semibold text-2xl h-14 px-7 rounded-2xl drop-shadow-[0px_0px_1rem_#2d235acc]'
     >
       Open in Warpcast
