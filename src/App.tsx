@@ -145,7 +145,7 @@ function App() {
     </div>
 
     <a
-      href='https://warpcast.com/~/compose?text=Mera%20WTF%20app%20dekho!&embeds[]=https%3A%2F%2Fwarpcast-to-farcaster.vercel.app%2F'
+      href='https://warpcast.com/~/compose?text=🔥%20Mint%20your%20WTF%20NFT%20on%20Base!&embeds[]=https%3A%2F%2Fwarpcast-to-farcaster.vercel.app%2F'
       target="_blank"
       rel="noopener noreferrer"
       className='bg-[#362e6f] text-white flex justify-center items-center font-semibold text-2xl h-14 px-7 rounded-2xl drop-shadow-[0px_0px_1rem_#2d235acc]'
